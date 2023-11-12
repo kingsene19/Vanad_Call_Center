@@ -5,4 +5,4 @@ Développer des prédicteurs de délai précis pour prédire le temps d'attente 
 Dans ce travail, nous voulons tester l’efficacité de certains prédicteurs présenté dans Thiongane et al. (2023) “A New Delay History Predictor for Multi-skill Call Center” en utilisant les données du VANAD pour l’année 2014. 
 Motre objectif consiste à créer des prédicteurs de délai capable de prédire avec une bonne précision les temps d’attente des clients au niveau d’un centre d’appel.
 
-Un rapport détaillé du project est disponible sous format PDF.
+Un rapport détaillé du projet est disponible sous format PDF.
